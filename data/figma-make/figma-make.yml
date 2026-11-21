@@ -1,0 +1,12 @@
+name: "Figma Make"
+description: "An AI feature within Figma that generates UI designs and prototypes from text prompts. It is available to Figma users as part of the design platform."
+source_url: "https://www.figma.com/"
+category: "AI Design Plugins"
+tags:
+  - "ai-powered"
+  - "freemium"
+  - "api"
+  - "figma-plugin"
+icon_url: "https://icons.duckduckgo.com/ip3/www.figma.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.figma.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:19"

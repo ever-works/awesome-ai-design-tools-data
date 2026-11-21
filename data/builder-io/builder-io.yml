@@ -1,0 +1,12 @@
+name: "Builder.io"
+description: "A visual development platform that connects designs to code using AI. It supports headless CMS and e-commerce integrations."
+source_url: "https://www.builder.io/"
+category: "Design-to-Code"
+tags:
+  - "ai-powered"
+  - "freemium"
+  - "api"
+  - "cms"
+icon_url: "https://icons.duckduckgo.com/ip3/www.builder.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.builder.io/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:19"

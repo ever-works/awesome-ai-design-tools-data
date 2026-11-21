@@ -1,0 +1,11 @@
+name: "TeleportHQ"
+description: "An AI website and UI builder that exports code for developers. It supports collaboration and component reuse."
+source_url: "https://teleporthq.io/"
+category: "Design-to-Code"
+tags:
+  - "ai-powered"
+  - "freemium"
+  - "code-export"
+icon_url: "https://icons.duckduckgo.com/ip3/teleporthq.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://teleporthq.io/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:19"

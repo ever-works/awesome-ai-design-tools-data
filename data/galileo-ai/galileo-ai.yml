@@ -1,0 +1,11 @@
+name: "Galileo AI"
+description: "An AI interface design tool that generates editable UI designs from text descriptions. It outputs designs compatible with Figma."
+source_url: "https://www.galileo.ai/"
+category: "UI Generation"
+tags:
+  - "ai-powered"
+  - "freemium"
+  - "figma"
+icon_url: "https://icons.duckduckgo.com/ip3/www.galileo.ai.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.galileo.ai/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:19"

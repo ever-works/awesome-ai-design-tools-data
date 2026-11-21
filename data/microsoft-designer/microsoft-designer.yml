@@ -1,0 +1,11 @@
+name: "Microsoft Designer"
+description: "An AI graphic design app for creating social media posts, invitations, and marketing materials. It integrates with Microsoft 365."
+source_url: "https://designer.microsoft.com/"
+category: "Graphic & Brand Design"
+tags:
+  - "ai-powered"
+  - "freemium"
+  - "microsoft"
+icon_url: "https://icons.duckduckgo.com/ip3/designer.microsoft.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://designer.microsoft.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:19"

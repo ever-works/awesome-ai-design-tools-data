@@ -1,0 +1,12 @@
+name: "v0"
+description: "A generative AI tool that creates React code and UI components from text prompts. It is developed by Vercel."
+source_url: "https://v0.dev/"
+category: "Design-to-Code"
+tags:
+  - "ai-powered"
+  - "freemium"
+  - "react"
+  - "code-generation"
+icon_url: "https://icons.duckduckgo.com/ip3/v0.dev.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://v0.dev/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:19"

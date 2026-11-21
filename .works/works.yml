@@ -1,0 +1,31 @@
+company_name: "Awesome AI Design Tools"
+content_table: true
+item_name: Item
+items_name: Items
+paging_mode: paging
+copyright_year: 2026
+name: "Awesome AI Design Tools"
+initial_prompt: "A curated directory of AI tools for UI/UX design, prototyping, branding and graphic design. Include products such as Figma Make, Uizard, Google Stitch, Relume, Visily, Framer AI, Canva Magic Studio, Adobe Firefly, Looka, Khroma, v0, Recraft, plus other notable commercial and open-source options. Categories: UI Generation, Prototyping, Graphic & Brand Design, Logo Generators, Design-to-Code, AI Design Plugins. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations."
+providers:
+  ai: openrouter
+  search: tavily
+  pipeline: agent-pipeline
+  contentExtractor: local-content-extractor
+website_repo: "ever-works/awesome-ai-design-tools-website"
+company_website: "https://ai-design-tools.ever.works"
+settings:
+  categories_enabled: true
+  companies_enabled: true
+  tags_enabled: true
+  collections_enabled: true
+  surveys_enabled: true
+  import_enabled: false
+  export_enabled: false
+  import_max_rows: 500
+pagination:
+  type: standard
+  itemsPerPage: 12
+custom_menu:
+  header: []
+  footer: []
+version: 0.1.0

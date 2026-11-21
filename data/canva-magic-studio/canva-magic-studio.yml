@@ -1,0 +1,11 @@
+name: "Canva Magic Studio"
+description: "A suite of AI tools integrated into Canva for graphic design, image editing, and content generation. It supports teams and individuals."
+source_url: "https://www.canva.com/"
+category: "Graphic & Brand Design"
+tags:
+  - "ai-powered"
+  - "freemium"
+  - "graphic-design"
+icon_url: "https://icons.duckduckgo.com/ip3/www.canva.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.canva.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:19"

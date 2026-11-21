@@ -1,0 +1,11 @@
+name: "Midjourney"
+description: "An AI image generation service accessed via Discord. It is used for creating graphics, concept art, and visual assets."
+source_url: "https://www.midjourney.com/"
+category: "Graphic & Brand Design"
+tags:
+  - "ai-powered"
+  - "paid"
+  - "image-generation"
+icon_url: "https://icons.duckduckgo.com/ip3/www.midjourney.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.midjourney.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:19"

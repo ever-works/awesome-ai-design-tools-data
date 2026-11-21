@@ -1,0 +1,12 @@
+name: "Stable Diffusion"
+description: "An open-source text-to-image model for generating graphics and art. It can be self-hosted or used via API."
+source_url: "https://stability.ai/"
+category: "Graphic & Brand Design"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "image-generation"
+icon_url: "https://icons.duckduckgo.com/ip3/stability.ai.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://stability.ai/>\n- Repository: <https://github.com/Stability-AI/StableDiffusion>\n\nLicense: Various (Community License).\n"
+updated_at: "2026-11-21 01:19"

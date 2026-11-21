@@ -1,0 +1,12 @@
+name: "Google Stitch"
+description: "A Google AI tool for generating user interface designs from natural language descriptions. It is currently available as a preview project."
+source_url: "https://stitch.google.com/"
+category: "UI Generation"
+tags:
+  - "ai-powered"
+  - "free-plan"
+  - "google"
+  - "free"
+icon_url: "https://icons.duckduckgo.com/ip3/stitch.google.com.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://stitch.google.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:19"

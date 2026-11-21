@@ -1,0 +1,11 @@
+name: "Relume"
+description: "An AI sitemap and wireframe generator for web designers. It creates copy and wireframes that can be exported to Figma or Webflow."
+source_url: "https://relume.io/"
+category: "UI Generation"
+tags:
+  - "ai-powered"
+  - "freemium"
+  - "sitemap"
+icon_url: "https://icons.duckduckgo.com/ip3/relume.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://relume.io/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:19"

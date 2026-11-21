@@ -1,0 +1,12 @@
+name: "Penpot"
+description: "An open-source design and prototyping tool for teams. It supports web standards and allows self-hosting."
+source_url: "https://penpot.app/"
+category: "Prototyping"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "prototyping"
+icon_url: "https://icons.duckduckgo.com/ip3/penpot.app.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://penpot.app/>\n- Repository: <https://github.com/penpot/penpot>\n\nLicense: MPL-2.0.\n"
+updated_at: "2026-11-21 01:19"

@@ -1,0 +1,12 @@
+- id: ui-generation
+  name: "UI Generation"
+- id: prototyping
+  name: "Prototyping"
+- id: graphic-and-brand-design
+  name: "Graphic & Brand Design"
+- id: logo-generators
+  name: "Logo Generators"
+- id: design-to-code
+  name: "Design-to-Code"
+- id: ai-design-plugins
+  name: "AI Design Plugins"

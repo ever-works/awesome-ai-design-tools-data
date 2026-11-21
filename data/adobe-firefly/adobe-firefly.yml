@@ -1,0 +1,12 @@
+name: "Adobe Firefly"
+description: "Adobe's generative AI model for creating images, vectors, and text effects. It integrates with Creative Cloud applications."
+source_url: "https://firefly.adobe.com/"
+category: "Graphic & Brand Design"
+tags:
+  - "ai-powered"
+  - "freemium"
+  - "api"
+  - "adobe"
+icon_url: "https://icons.duckduckgo.com/ip3/firefly.adobe.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://firefly.adobe.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:19"

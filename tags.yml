@@ -1,0 +1,52 @@
+- id: ai-powered
+  name: "AI-Powered"
+- id: freemium
+  name: "Freemium"
+- id: api
+  name: "API"
+- id: figma-plugin
+  name: "Figma Plugin"
+- id: prototyping
+  name: "Prototyping"
+- id: free-plan
+  name: "Free Plan"
+- id: google
+  name: "Google"
+- id: free
+  name: "Free"
+- id: sitemap
+  name: "Sitemap"
+- id: wireframing
+  name: "Wireframing"
+- id: website-builder
+  name: "Website Builder"
+- id: graphic-design
+  name: "Graphic Design"
+- id: adobe
+  name: "Adobe"
+- id: paid
+  name: "Paid"
+- id: logo-design
+  name: "Logo Design"
+- id: color-palette
+  name: "Color Palette"
+- id: react
+  name: "React"
+- id: code-generation
+  name: "Code Generation"
+- id: vector-art
+  name: "Vector Art"
+- id: figma
+  name: "Figma"
+- id: cms
+  name: "CMS"
+- id: code-export
+  name: "Code Export"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: microsoft
+  name: "Microsoft"
+- id: image-generation
+  name: "Image Generation"

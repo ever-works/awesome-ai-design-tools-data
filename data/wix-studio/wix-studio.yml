@@ -1,0 +1,11 @@
+name: "Wix Studio"
+description: "A web design platform for agencies with AI features for layout and content generation. It includes prototyping and development tools."
+source_url: "https://www.wix.com/studio"
+category: "Prototyping"
+tags:
+  - "ai-powered"
+  - "freemium"
+  - "website-builder"
+icon_url: "https://icons.duckduckgo.com/ip3/www.wix.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.wix.com/studio>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:19"
